@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42f4f04a-bd85-4253-8b14-4a5663f0cfa3": {
+      "ProjectGuid": "42f4f04a-bd85-4253-8b14-4a5663f0cfa3",
+      "DisplayName": "pointer",
+      "ColorIndex": 0
+    },
+    "3e6786da-1a7b-4d4e-a319-326bb4e8d364": {
+      "ProjectGuid": "3e6786da-1a7b-4d4e-a319-326bb4e8d364",
+      "DisplayName": "arrays",
+      "ColorIndex": 1
+    },
+    "07c176f3-219a-4fb7-a252-61c52109c46e": {
+      "ProjectGuid": "07c176f3-219a-4fb7-a252-61c52109c46e",
+      "DisplayName": "strings",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

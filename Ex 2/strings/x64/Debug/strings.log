@@ -1,6 +1,0 @@
-﻿  strings.cpp
-C:\Users\georg\source\repos\saod 2\strings\strings.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-  utils.cpp
-  Создание кода...
-C:\Users\georg\source\repos\saod 2\strings\utils.cpp(25): warning C4715: compare: значение возвращается не при всех путях выполнения
-  strings.vcxproj -> C:\Users\georg\source\repos\saod 2\x64\Debug\strings.exe
