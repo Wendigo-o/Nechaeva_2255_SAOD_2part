@@ -1,0 +1,25 @@
+﻿  ex6.cpp
+C:\Users\user\Desktop\ex6\ex6\ex6.cpp(83,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\user\Desktop\ex6\ex6\ex6.cpp(79): message : во время компиляции функции-члена класс шаблон "T BoxPlot<T>::lq(std::vector<T,std::allocator<T>>)"
+          with
+          [
+              T=double
+          ]
+C:\Users\user\Desktop\ex6\ex6\ex6.cpp(182): message : выполняется компиляция ссылки на экземпляр шаблон функции "T BoxPlot<T>::lq(std::vector<T,std::allocator<T>>)"
+          with
+          [
+              T=double
+          ]
+C:\Users\user\Desktop\ex6\ex6\ex6.cpp(94): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BoxPlot<double>"
+C:\Users\user\Desktop\ex6\ex6\ex6.cpp(90,21): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\user\Desktop\ex6\ex6\ex6.cpp(86): message : во время компиляции функции-члена класс шаблон "T BoxPlot<T>::uq(std::vector<T,std::allocator<T>>)"
+          with
+          [
+              T=double
+          ]
+C:\Users\user\Desktop\ex6\ex6\ex6.cpp(186): message : выполняется компиляция ссылки на экземпляр шаблон функции "T BoxPlot<T>::uq(std::vector<T,std::allocator<T>>)"
+          with
+          [
+              T=double
+          ]
+  ex6.vcxproj -> C:\Users\user\Desktop\ex6\Debug\ex6.exe
